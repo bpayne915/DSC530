@@ -1,4 +1,4 @@
-## DSC530 Term Project - Barbara Payne
+## Airline Trends : DSC530 Term Project - Barbara Payne
 
 This repository contains the following:
 
